@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muntazir Alam
 - 🧠 I’m interested in Software Engineering, Artificial Intelligence.
-- 🔗 You can see my [Resume], [Linkedin](https://www.linkedin.com/in/rohit-yaduvanshi-0493752a1/), and more on my [Linktree](linktr.ee/rohityaduvanshi03) account.
+- 🔗 You can see my [Resume], [Linkedin](https://www.linkedin.com/in/muntazir-the-loner-996430293/).
 - 💼 I’m looking for Contribution.
 - 📫 You can reach me via muntaziralam8526@gmail.com.
 
