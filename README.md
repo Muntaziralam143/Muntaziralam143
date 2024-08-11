@@ -69,7 +69,7 @@
 <br>
 
 <div align="center">
-  <a href="https://leetcode.com/u/Rohit_kumar_2/"><img src="https://img.shields.io/badge/-Leetcode-2EC866?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode">
+  <a href="https://leetcode.com/u/Muntazir_alam/"><img src="https://img.shields.io/badge/-Leetcode-2EC866?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode">
   </a>
   <a href="https://www.linkedin.com/in/rohit-yaduvanshi-0493752a1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
