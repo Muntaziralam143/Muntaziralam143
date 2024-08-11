@@ -57,7 +57,7 @@
 <br>
 
 <p align="center"> 
-  <a href = "https://leetcode.com/u/Rohit_kumar_2/">
+  <a href = "https://leetcode.com/u/Muntazir_alam/">
     <img src="https://leetcard.jacoblin.cool/Rohit_kumar_2?theme=unicorn&font=Almarai"/>
   </a>
 </p> 
