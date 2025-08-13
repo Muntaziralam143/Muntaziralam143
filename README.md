@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Muntazir,<br><br> a third-year B.Tech student in Computer Science Engineering<br> at Budge Budge Institute of Technology, Kolkata,<br>intrested in Web-devlopment.
+Hi, I'm Muntazir,<br><br> a third-year B.Tech student in Computer Science Engineering<br> at Budge Budge Institute of Technology, Kolkata,<br> DATA SCIENCE.
 
 
 ## 🌐 Socials:
