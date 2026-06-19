@@ -18,46 +18,7 @@ Affiliated with MAKAUT University
 
 ---
 
-## 🌱 Currently Learning
 
-* Machine Learning
-* Deep Learning
-* Natural Language Processing (NLP)
-* MLOps
-* Data Engineering
-* Generative AI
-
----
-
-## 💼 Featured Projects
-
-### 💰 Personalized Wealth Management & Goal Tracker
-
-* React.js + Tailwind CSS
-* FastAPI Backend
-* PostgreSQL Database
-* Goal-Based Financial Planning
-* Investment Tracking
-* Wealth Analytics Dashboard
-
-### 🤖 AI Financial Intelligence System
-
-* EasyOCR
-* Scikit-Learn
-* XGBoost
-* Spending Forecasting
-* Anomaly Detection
-* Financial Recommendation Engine
-
-### 🔍 Large-Scale User Data Processing & Search System
-
-* Python
-* SQLite
-* JSON Data Processing
-* Fast Search & Retrieval
-* Big Data Handling
-
----
 
 ## 🛠️ Tech Stack
 
