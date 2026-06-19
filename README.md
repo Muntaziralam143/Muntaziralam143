@@ -1,33 +1,44 @@
 # 👋 Hi, I'm Muntazir Alam
 
-### AI & Data Science Enthusiast | Final Year B.Tech CSE Student
+### 🚀 AI & Data Science Enthusiast | Machine Learning Engineer | Final Year B.Tech CSE Student
 
-🎓 Final Year B.Tech (CSE) under MAKAUT university, Kolkata
+I'm a final-year Computer Science Engineering student at **Budge Budge Institute of Technology (BBIT), Kolkata**.
 
-💡 Passionate about Data Science, Machine Learning, AI, and Software Development
-
-🚀 Building real-world AI-powered applications and data-driven solutions
+Passionate about **Data Science, Machine Learning, Artificial Intelligence, and Software Development**, I enjoy building real-world applications that solve practical problems using data and intelligent systems.
 
 ---
 
-## 🌐 Connect With Me
+## 🎓 Education
 
-📧 Email: [muntaziralam424@gmail.com](mailto:your-email@gmail.com)
+**B.Tech in Computer Science & Engineering**
 
-💼 LinkedIn: https://www.linkedin.com/in/muntazir-alam-996430293/
+Budge Budge Institute of Technology (BBIT), Kolkata
 
-🐙 GitHub: https://github.com/Muntaziralam143
+Affiliated with MAKAUT University
 
 ---
 
-## 🚀 Featured Projects
+## 🌱 Currently Learning
+
+* Machine Learning
+* Deep Learning
+* Natural Language Processing (NLP)
+* MLOps
+* Data Engineering
+* Generative AI
+
+---
+
+## 💼 Featured Projects
 
 ### 💰 Personalized Wealth Management & Goal Tracker
 
-* React.js
-* FastAPI
-* PostgreSQL
+* React.js + Tailwind CSS
+* FastAPI Backend
+* PostgreSQL Database
 * Goal-Based Financial Planning
+* Investment Tracking
+* Wealth Analytics Dashboard
 
 ### 🤖 AI Financial Intelligence System
 
@@ -36,37 +47,57 @@
 * XGBoost
 * Spending Forecasting
 * Anomaly Detection
+* Financial Recommendation Engine
 
 ### 🔍 Large-Scale User Data Processing & Search System
 
 * Python
 * SQLite
-* Large JSON Processing
+* JSON Data Processing
 * Fast Search & Retrieval
+* Big Data Handling
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
+### Programming Languages
 
-Python • Java • C • JavaScript
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 
 ### Web Development
 
-React.js • HTML • CSS • Tailwind CSS • FastAPI
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
 
-### Data Science & AI
+### Data Science & Machine Learning
 
-NumPy • Pandas • Scikit-Learn • XGBoost • EasyOCR
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge\&logo=scikitlearn)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
 
 ### Databases
 
-MySQL • PostgreSQL • SQLite
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite)
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/muntazir-alam-996430293)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/Muntaziralam143)
+
+---
+
+## 📊 GitHub Statistics
 
 ![](https://github-readme-stats.vercel.app/api?username=Muntaziralam143\&theme=tokyonight\&show_icons=true)
 
@@ -82,6 +113,12 @@ MySQL • PostgreSQL • SQLite
 
 ---
 
-### ✨ Quote
+## 📈 Profile Views
 
-"Turning Data into Insights and Ideas into Intelligent Solutions."
+![](https://visitcount.itsvg.in/api?id=Muntaziralam143\&icon=5\&color=12)
+
+---
+
+### ✨ Motto
+
+"Turning Data into Decisions and Ideas into Intelligent Solutions."
